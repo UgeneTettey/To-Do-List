@@ -1,0 +1,4 @@
+1. Password generator
+2. rock-paper-scissors game
+3. tic-tac-toe
+4. word guess game
