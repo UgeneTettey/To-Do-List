@@ -6,7 +6,7 @@ This Project is a personal one (yet, made public ... LoL).This contains simple s
 The aim is to help boost my python skills and problem solving approach.
 
 The scripts are expected to progress from simple functions to more rigorous ones, developed
-to have more complexity, addressing other possible conditions/scenat involved.
+to have more complexity, addressing other possible conditions/scenarios involved.
 
 <h3>To-the-viewer</h3>
 let's have some fun! 
